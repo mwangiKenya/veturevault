@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/veturevault/static/css/main.89ebc432.css",
-    "main.js": "/veturevault/static/js/main.3cc4064b.js",
+    "main.js": "/veturevault/static/js/main.3bf05062.js",
     "static/js/453.adbc6a58.chunk.js": "/veturevault/static/js/453.adbc6a58.chunk.js",
     "static/media/salaryaccount.jpg": "/veturevault/static/media/salaryaccount.8597a32b06106cefe101.jpg",
     "index.html": "/veturevault/index.html",
     "main.89ebc432.css.map": "/veturevault/static/css/main.89ebc432.css.map",
-    "main.3cc4064b.js.map": "/veturevault/static/js/main.3cc4064b.js.map",
+    "main.3bf05062.js.map": "/veturevault/static/js/main.3bf05062.js.map",
     "453.adbc6a58.chunk.js.map": "/veturevault/static/js/453.adbc6a58.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89ebc432.css",
-    "static/js/main.3cc4064b.js"
+    "static/js/main.3bf05062.js"
   ]
 }
