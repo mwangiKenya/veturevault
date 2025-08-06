@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/veturevault/static/css/main.89ebc432.css",
-    "main.js": "/veturevault/static/js/main.21a39d7f.js",
+    "main.js": "/veturevault/static/js/main.90605803.js",
     "static/js/453.adbc6a58.chunk.js": "/veturevault/static/js/453.adbc6a58.chunk.js",
     "index.html": "/veturevault/index.html",
     "main.89ebc432.css.map": "/veturevault/static/css/main.89ebc432.css.map",
-    "main.21a39d7f.js.map": "/veturevault/static/js/main.21a39d7f.js.map",
+    "main.90605803.js.map": "/veturevault/static/js/main.90605803.js.map",
     "453.adbc6a58.chunk.js.map": "/veturevault/static/js/453.adbc6a58.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89ebc432.css",
-    "static/js/main.21a39d7f.js"
+    "static/js/main.90605803.js"
   ]
 }
